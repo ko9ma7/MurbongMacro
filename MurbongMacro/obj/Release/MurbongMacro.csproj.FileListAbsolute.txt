@@ -1,0 +1,14 @@
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\bin\Release\MurbongMacro.exe.config
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\bin\Release\MurbongMacro.exe
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\bin\Release\MurbongMacro.pdb
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Release\MurbongMacro.Form1.resources
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Release\MurbongMacro.Form2.resources
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Release\MurbongMacro.Properties.Resources.resources
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Release\MurbongMacro.csproj.GenerateResource.cache
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Release\MurbongMacro.csproj.CoreCompileInputs.cache
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Release\MurbongMacro.exe
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Release\MurbongMacro.pdb
+C:\Users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Release\MurbongMacro.csprojAssemblyReference.cache
+C:\Users\wc100\source\repos\MurbongMacro\MurbongMacro\bin\Release\lg-UG\MurbongMacro.resources.dll
+C:\Users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Release\MurbongMacro.Form2.lg-UG.resources
+C:\Users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Release\lg-UG\MurbongMacro.resources.dll

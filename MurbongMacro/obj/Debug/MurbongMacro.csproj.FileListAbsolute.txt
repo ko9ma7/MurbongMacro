@@ -1,0 +1,11 @@
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\bin\Debug\MurbongMacro.exe.config
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\bin\Debug\MurbongMacro.exe
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\bin\Debug\MurbongMacro.pdb
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Debug\MurbongMacro.csprojAssemblyReference.cache
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Debug\MurbongMacro.Properties.Resources.resources
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Debug\MurbongMacro.csproj.GenerateResource.cache
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Debug\MurbongMacro.csproj.CoreCompileInputs.cache
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Debug\MurbongMacro.exe
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Debug\MurbongMacro.pdb
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Debug\MurbongMacro.Form1.resources
+c:\users\wc100\source\repos\MurbongMacro\MurbongMacro\obj\Debug\MurbongMacro.Form2.resources

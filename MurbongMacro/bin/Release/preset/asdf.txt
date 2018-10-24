@@ -1,0 +1,8 @@
+Loop|5////
+A/10|0~0//Press/65
+A/500|0~0//Pull/65
+LoopEnd////
+Loop|5////
+A/10|0~0//Press/65
+A/500|0~0//Pull/65
+LoopEnd////
